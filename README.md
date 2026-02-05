@@ -1,1 +1,3 @@
-# NNPTUDM_NguyenKhanhHuan_05-02
+#Name: Nguyen Khanh Huan
+#MSSV: 2280601086
+#22DTHE5
